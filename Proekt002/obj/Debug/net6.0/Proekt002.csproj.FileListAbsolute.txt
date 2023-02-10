@@ -1,0 +1,15 @@
+D:\GeekBreans-обучение\Proga_C#\Proekt002\bin\Debug\net6.0\Proekt002.exe
+D:\GeekBreans-обучение\Proga_C#\Proekt002\bin\Debug\net6.0\Proekt002.deps.json
+D:\GeekBreans-обучение\Proga_C#\Proekt002\bin\Debug\net6.0\Proekt002.runtimeconfig.json
+D:\GeekBreans-обучение\Proga_C#\Proekt002\bin\Debug\net6.0\Proekt002.dll
+D:\GeekBreans-обучение\Proga_C#\Proekt002\bin\Debug\net6.0\Proekt002.pdb
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.csproj.AssemblyReference.cache
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.AssemblyInfoInputs.cache
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.AssemblyInfo.cs
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.csproj.CoreCompileInputs.cache
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.dll
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\refint\Proekt002.dll
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.pdb
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\Proekt002.genruntimeconfig.cache
+D:\GeekBreans-обучение\Proga_C#\Proekt002\obj\Debug\net6.0\ref\Proekt002.dll
