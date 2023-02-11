@@ -36,25 +36,56 @@
 // 3 -> Среда 
 // 5 -> Пятница
 
-Console.Write("Введите число от 1 до 7: ");
-int result = Convert.ToInt32(Console.ReadLine());
-if (result == 1)
+// Console.Write("Введите число от 1 до 7: ");
+// int result = Convert.ToInt32(Console.ReadLine());
+// if (result == 1)
+// {
+//     System.Console.WriteLine("Понедельник");
+// }
+// else if (result == 2)
+// {
+//     System.Console.WriteLine("Вторник");
+// }
+// else if (result == 3)
+// {
+//     System.Console.WriteLine("Среда");
+// }
+// else if (result == 4)
+// {
+//     System.Console.WriteLine("Chetverg");
+// }
+// else
+// {
+//     System.Console.WriteLine("Нет такого дня недели!");
+// }
+// Решение этой задачи 2
+System.Console.Write("Введите день недели: ");
+int day = Convert.ToInt32(Console.ReadLine());
+
+switch (day)
 {
-    System.Console.WriteLine("Понедельник");
-}
-else if (result == 2)
-{
-    System.Console.WriteLine("Вторник");
-}
-else if (result == 3)
-{
-    System.Console.WriteLine("Среда");
-}
-else if (result == 4)
-{
-    System.Console.WriteLine("Chetverg");
-}
-else
-{
-    System.Console.WriteLine("Нет такого дня недели!");
+case 1:
+System.Console.WriteLine("Понедельник");
+break;
+case 2:
+System.Console.WriteLine("Вторник");
+break;
+case 3:
+System.Console.WriteLine("Среда");
+break;
+case 4:
+System.Console.WriteLine("Четверг");
+break;
+case 5:
+System.Console.WriteLine("Пятница");
+break;
+case 6:
+System.Console.WriteLine("Суббота");
+break;
+case 7:
+System.Console.WriteLine("Воскресенье");
+break;
+default:
+System.Console.WriteLine("Такого дня недели не существует");
+break;
 }
