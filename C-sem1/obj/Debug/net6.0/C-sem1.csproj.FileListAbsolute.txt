@@ -1,0 +1,15 @@
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\bin\Debug\net6.0\C-sem1.exe
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\bin\Debug\net6.0\C-sem1.deps.json
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\bin\Debug\net6.0\C-sem1.runtimeconfig.json
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\bin\Debug\net6.0\C-sem1.dll
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\bin\Debug\net6.0\C-sem1.pdb
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.csproj.AssemblyReference.cache
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.AssemblyInfoInputs.cache
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.AssemblyInfo.cs
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.csproj.CoreCompileInputs.cache
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.dll
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\refint\C-sem1.dll
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.pdb
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\C-sem1.genruntimeconfig.cache
+D:\GeekBreans-обучение\GB-DZZZZ\3DZ-Csharp\DZ-Csh1\C-sem1\obj\Debug\net6.0\ref\C-sem1.dll
