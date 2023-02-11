@@ -59,33 +59,44 @@
 //     System.Console.WriteLine("Нет такого дня недели!");
 // }
 // Решение этой задачи 2
-System.Console.Write("Введите день недели: ");
-int day = Convert.ToInt32(Console.ReadLine());
+// System.Console.Write("Введите день недели: ");
+// int day = Convert.ToInt32(Console.ReadLine());
 
-switch (day)
+// switch (day)
+// {
+// case 1:
+// System.Console.WriteLine("Понедельник");
+// break;
+// case 2:
+// System.Console.WriteLine("Вторник");
+// break;
+// case 3:
+// System.Console.WriteLine("Среда");
+// break;
+// case 4:
+// System.Console.WriteLine("Четверг");
+// break;
+// case 5:
+// System.Console.WriteLine("Пятница");
+// break;
+// case 6:
+// System.Console.WriteLine("Суббота");
+// break;
+// case 7:
+// System.Console.WriteLine("Воскресенье");
+// break;
+// default:
+// System.Console.WriteLine("Такого дня недели не существует");
+// break;
+// }
+
+// Задача №5. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
+// 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
+// 2 -> " -2, -1, 0, 1, 2"
+
+Console.Write("Введите число: ");
+int N = Convert.ToInt32(Console.ReadLine());
+for (int i = -N; i <=N; i++)
 {
-case 1:
-System.Console.WriteLine("Понедельник");
-break;
-case 2:
-System.Console.WriteLine("Вторник");
-break;
-case 3:
-System.Console.WriteLine("Среда");
-break;
-case 4:
-System.Console.WriteLine("Четверг");
-break;
-case 5:
-System.Console.WriteLine("Пятница");
-break;
-case 6:
-System.Console.WriteLine("Суббота");
-break;
-case 7:
-System.Console.WriteLine("Воскресенье");
-break;
-default:
-System.Console.WriteLine("Такого дня недели не существует");
-break;
+    System.Console.Write(i + " ");
 }
