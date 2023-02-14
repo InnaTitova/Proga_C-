@@ -113,3 +113,17 @@ for (int count=1; count<=n; count++)
 {
     System.Console.Write(Math.Pow(count,2) + " ");
 }
+//еще вариант решения через void
+// void PrintSquares(int x)
+// {
+// for (int i = 1; i <= x; i++)
+// {
+// System.Console.Write(Math.Pow(i, 2) + " ");
+// }
+// }
+
+// System.Console.WriteLine("Введите число N");
+// int a = Convert.ToInt32(Console.ReadLine());
+
+// System.Console.WriteLine();
+// PrintSquares(a);
