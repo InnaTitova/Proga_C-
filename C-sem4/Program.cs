@@ -107,27 +107,71 @@
 //  нулями и единицами в случайном порядке.
 // [1,0,1,1,0,1,0,0]
 
-int[] FillArray(int size)
+// int[] FillArray(int size)
+// {
+//     int[] arr1 = new int [size];
+//     int length = arr1.Length;
+//     for (int i=0; i < length; i++)
+
+//     {
+//         arr1[i] = new Random().Next(0, 2);
+
+//     }
+//     return arr1;
+// }
+// void PrintArray(int[] col)
+// {
+//     int count = col.Length;
+//     int position = 0;
+//     while (position < count)
+//     {
+//         System.Console.Write($"{col[position]}, ");
+//         position++;
+//     }
+// }
+// int[] array1 = FillArray(25);
+// PrintArray(array1);
+//------Вариант решения-1---
+// int[] GetArray()
+// {
+//     var arr = new int[8];
+//     var rand = new Random();
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         arr[i] = rand.Next(0, 2);
+//     }
+//     return arr;
+// }
+
+// void PrintArray(int[] arr)
+// {
+//     System.Console.WriteLine("[" + string.Join(", ", arr) + "]");
+// }
+
+// var myArray = GetArray();
+// PrintArray(myArray);
+
+
+// -----Вариант решения -2-----------
+void GetArray(int[] arr)
 {
-    int[] arr1 = new int [size];
-    int length = arr1.Length;
-    for (int i=0; i < length; i++)
-    
+    var rand = new Random();
+    for (int i = 0; i < arr.Length; i++)
     {
-        arr1[i] = new Random().Next(0, 2);
-        
+        arr[i] = rand.Next(0, 2);
     }
-    return arr1;
 }
-void PrintArray(int[] col)
+
+void PrintArray(int[] arr)
 {
-    int count = col.Length;
-    int position = 0;
-    while (position < count)
+    // System.Console.WriteLine("[" + string.Join(", ", arr) + "]");
+    //данная строка заменяет следующее:
+    for (int i = 0; i < arr.Length; i++)
     {
-        System.Console.Write($"{col[position]}, ");
-        position++;
+        System.Console.Write(arr[i] + " ");
     }
 }
-int[] array1 = FillArray(25);
-PrintArray(array1);
+
+int[] myArray = new int[23];
+GetArray(myArray);
+PrintArray(myArray);
